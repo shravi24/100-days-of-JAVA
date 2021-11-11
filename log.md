@@ -26,7 +26,9 @@ Constructor  </br>
 
 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
+[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)
+[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
 
 You did it!! Happy Coding !! 
 
