@@ -26,8 +26,8 @@ Constructor  </br>
 
 
 
-**Link to work:** 
-[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)
+**Link to work:** </br>
+[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
 [Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
 
 You did it!! Happy Coding !! 
