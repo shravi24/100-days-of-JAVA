@@ -26,7 +26,159 @@ Constructor  </br>
 
 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** </br>
+[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
+[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
 
 You did it!! Happy Coding !! 
 
+
+### Day 1: November 12, 2021 
+
+**Today's Progress**: </br>
+Went through below concepts</br>
+Constructor</br>
+This keyword</br>
+Method and Constructor Overloading </br>
+Static Keyword</br> 
+Inner  Class </br>
+
+
+**Thoughts:** I am just going through the different concepts and testing them practically.
+
+
+
+**Link to work:** </br>
+[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
+[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+
+You did it!! Happy Coding !! 
+
+
+### Day 2: November 13, 2021 
+
+**Today's Progress**: </br>
+ 
+Array 1D | 2D | </br>
+Jagged Array</br>
+Enhanced for loop</br>
+Varargs </br>
+Inheritance </br> 
+
+
+**Thoughts:** I am just going through the different concepts and testing them practically.
+
+
+
+**Link to work:** </br>
+[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
+[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+
+You did it!! Happy Coding !! 
+
+### Day 3 : November 14, 2021 
+
+**Today's Progress**: </br>
+
+ Super Method</br>
+ Multiple Inheritance in Java?</br>
+ Method Overriding </br>
+ Varargs </br>
+ Super Keyword </br> 
+
+
+**Thoughts:** I am just going through the different concepts and testing them practically.
+
+
+
+**Link to work:** </br>
+[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
+[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+
+You did it!! Happy Coding !! 
+
+### Day 4: November 15, 2021 
+
+**Today's Progress**: </br>
+Went through below concepts</br>
+Dynamic Method Dispatch</br>
+Encapsulation</br>
+Wrapper class </br>
+AutoBoxing</br> 
+
+
+
+**Thoughts:** I am just going through the different concepts and testing them practically.
+
+
+
+**Link to work:** </br>
+[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
+[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+
+You did it!! Happy Coding !! 
+
+### Day 5: November 16, 2021 
+
+**Today's Progress**: </br>
+Went through below concepts</br>
+Why do we need Abstract Class?</br>
+Final Keyword </br>
+Interface | Why and What? </br>
+More about Interface</br> 
+
+
+
+**Thoughts:** I am just going through the different concepts and testing them practically.
+
+
+
+**Link to work:** </br>
+[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
+[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+
+You did it!! Happy Coding !! 
+
+### Day 6: November 17, 2021 
+
+**Today's Progress**: </br>
+Went through below concepts</br>
+Anonymous Inner class</br>
+Anonymous class with Interface  </br>
+Functional Interface | Lambda Expression </br>
+More about Interface</br> 
+
+
+
+**Thoughts:** I am just going through the different concepts and testing them practically.
+
+
+
+**Link to work:** </br>
+[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
+[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+
+You did it!! Happy Coding !! 
+
+
+### Day 7: November 18, 2021 
+
+**Today's Progress**: </br>
+Went through below concepts</br>
+Default method in Interface </br>
+Multiple Inheritance issue with Interface  </br>
+Static method in Interface  </br>
+Package</br> 
+Access Modifiers </br> 
+
+
+
+**Thoughts:** I am just going through the different concepts and testing them practically.
+
+
+
+**Link to work:** </br>
+[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
+[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+
+You did it!! Happy Coding !! 

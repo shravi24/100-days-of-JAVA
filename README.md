@@ -12,4 +12,5 @@ Happy Coding !!
 
 * [Log - click here to see my progress](log.md)
 * [Resources](resources.md)
+* [Rules](https://github.com/shravi24/100-days-of-JAVA/blob/master/rules.md)
 
