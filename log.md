@@ -112,8 +112,7 @@ AutoBoxing</br>
 
 
 **Link to work:** </br>
-[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
-[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/OOPConcepts)</br>
 
 You did it!! Happy Coding !! 
 
@@ -133,8 +132,7 @@ More about Interface</br>
 
 
 **Link to work:** </br>
-[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
-[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/OOPConcepts)</br>
 
 You did it!! Happy Coding !! 
 
@@ -154,8 +152,7 @@ More about Interface</br>
 
 
 **Link to work:** </br>
-[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
-[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
 
 You did it!! Happy Coding !! 
 
@@ -177,7 +174,6 @@ Access Modifiers </br>
 
 
 **Link to work:** </br>
-[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
-[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
 
 You did it!! Happy Coding !! 
