@@ -49,8 +49,8 @@ Inner  Class </br>
 
 
 **Link to work:** </br>
-[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
-[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/OOPBasics)</br>
+
 
 You did it!! Happy Coding !! 
 
@@ -58,7 +58,7 @@ You did it!! Happy Coding !!
 ### Day 2: November 13, 2021 
 
 **Today's Progress**: </br>
- 
+Went through below concepts :</br>  
 Array 1D | 2D | </br>
 Jagged Array</br>
 Enhanced for loop</br>
@@ -71,15 +71,14 @@ Inheritance </br>
 
 
 **Link to work:** </br>
-[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
-[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/OOPBasics)</br>
 
 You did it!! Happy Coding !! 
 
 ### Day 3 : November 14, 2021 
 
 **Today's Progress**: </br>
-
+ Went through below concepts :</br>
  Super Method</br>
  Multiple Inheritance in Java?</br>
  Method Overriding </br>
@@ -92,15 +91,15 @@ You did it!! Happy Coding !!
 
 
 **Link to work:** </br>
-[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
-[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/OOPConcepts)</br>
+
 
 You did it!! Happy Coding !! 
 
 ### Day 4: November 15, 2021 
 
 **Today's Progress**: </br>
-Went through below concepts</br>
+Went through below concepts :</br>
 Dynamic Method Dispatch</br>
 Encapsulation</br>
 Wrapper class </br>
@@ -113,15 +112,14 @@ AutoBoxing</br>
 
 
 **Link to work:** </br>
-[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
-[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/OOPConcepts)</br>
 
 You did it!! Happy Coding !! 
 
 ### Day 5: November 16, 2021 
 
 **Today's Progress**: </br>
-Went through below concepts</br>
+Went through below concepts :</br>
 Why do we need Abstract Class?</br>
 Final Keyword </br>
 Interface | Why and What? </br>
@@ -134,15 +132,14 @@ More about Interface</br>
 
 
 **Link to work:** </br>
-[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
-[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/OOPConcepts)</br>
 
 You did it!! Happy Coding !! 
 
 ### Day 6: November 17, 2021 
 
 **Today's Progress**: </br>
-Went through below concepts</br>
+Went through below concepts :</br>
 Anonymous Inner class</br>
 Anonymous class with Interface  </br>
 Functional Interface | Lambda Expression </br>
@@ -155,8 +152,7 @@ More about Interface</br>
 
 
 **Link to work:** </br>
-[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
-[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
 
 You did it!! Happy Coding !! 
 
@@ -164,7 +160,7 @@ You did it!! Happy Coding !!
 ### Day 7: November 18, 2021 
 
 **Today's Progress**: </br>
-Went through below concepts</br>
+Went through below concepts :</br>
 Default method in Interface </br>
 Multiple Inheritance issue with Interface  </br>
 Static method in Interface  </br>
@@ -178,7 +174,27 @@ Access Modifiers </br>
 
 
 **Link to work:** </br>
-[basic programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/basics)</br>
-[Class and Object simple example](https://github.com/shravi24/100-days-of-JAVA/tree/master/objectorientedprogramming)
+[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
+
+You did it!! Happy Coding !! 
+
+### Day 8: November 19, 2021 
+
+**Today's Progress**: </br>
+Went through below concepts :</br>
+Taking input from user using read() method and using BufferedReader
+Exception Handling Try Catch Finally
+Multiple Catch blocks 
+Checked Exception | Finally block 
+Try with Resource
+User Defined Exception
+
+
+**Thoughts:** I am just going through the different concepts and testing them practically.I have done different examples on exception handling so it took more time. But it is pretty easy and interesting.😊
+
+
+
+**Link to work:** </br>
+[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
 
 You did it!! Happy Coding !! 
