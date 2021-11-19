@@ -177,3 +177,23 @@ Access Modifiers </br>
 [Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
 
 You did it!! Happy Coding !! 
+
+### Day 8: November 19, 2021 
+
+**Today's Progress**: </br>
+Went through below concepts :</br>
+Taking input from user using read() method and using BufferedReader
+Exception Handling Try Catch Finally
+Multiple Catch blocks 
+Checked Exception | Finally block 
+Try with Resource
+
+
+**Thoughts:** I am just going through the different concepts and testing them practically.I have done different examples on exception handling so it took more time. But it is pretty easy and interesting.😊
+
+
+
+**Link to work:** </br>
+[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
+
+You did it!! Happy Coding !! 
