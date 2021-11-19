@@ -152,7 +152,7 @@ More about Interface</br>
 
 
 **Link to work:** </br>
-[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
+[Anonymous Inner class and interface examples](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
 
 You did it!! Happy Coding !! 
 
@@ -174,7 +174,10 @@ Access Modifiers </br>
 
 
 **Link to work:** </br>
-[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
+[Interface Programs](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
+[Package Example](https://github.com/shravi24/100-days-of-JAVA/tree/master/com/app)
+[Access Modifiers](https://github.com/shravi24/100-days-of-JAVA/tree/master/OOPBasics)
+
 
 You did it!! Happy Coding !! 
 
@@ -195,6 +198,7 @@ User Defined Exception
 
 
 **Link to work:** </br>
-[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
+[ExceptionHandling](https://github.com/shravi24/100-days-of-JAVA/tree/master/ExceptionHandling)</br>
+[Taking Input from user](https://github.com/shravi24/100-days-of-JAVA/tree/master/inputandoutput)
 
 You did it!! Happy Coding !! 
