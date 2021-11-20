@@ -152,7 +152,7 @@ More about Interface</br>
 
 
 **Link to work:** </br>
-[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
+[Anonymous Inner class and interface examples](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
 
 You did it!! Happy Coding !! 
 
@@ -174,7 +174,10 @@ Access Modifiers </br>
 
 
 **Link to work:** </br>
-[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
+[Interface Programs](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
+[Package Example](https://github.com/shravi24/100-days-of-JAVA/tree/master/com/app)
+[Access Modifiers](https://github.com/shravi24/100-days-of-JAVA/tree/master/OOPBasics)
+
 
 You did it!! Happy Coding !! 
 
@@ -182,12 +185,12 @@ You did it!! Happy Coding !!
 
 **Today's Progress**: </br>
 Went through below concepts :</br>
-Taking input from user using read() method and using BufferedReader
-Exception Handling Try Catch Finally
-Multiple Catch blocks 
-Checked Exception | Finally block 
-Try with Resource
-User Defined Exception
+Taking input from user using read() method ,using BufferedReader and Scanner class</br>
+Exception Handling Try Catch Finally</br>
+Multiple Catch blocks </br>
+Checked Exception | Finally block </br>
+Try with Resource</br>
+User Defined Exception</br>
 
 
 **Thoughts:** I am just going through the different concepts and testing them practically.I have done different examples on exception handling so it took more time. But it is pretty easy and interesting.😊
@@ -195,6 +198,7 @@ User Defined Exception
 
 
 **Link to work:** </br>
-[Practice Programmes](https://github.com/shravi24/100-days-of-JAVA/tree/master/InterfaceExample)</br>
+[ExceptionHandling](https://github.com/shravi24/100-days-of-JAVA/tree/master/ExceptionHandling)</br>
+[Taking Input from user](https://github.com/shravi24/100-days-of-JAVA/tree/master/inputandoutput)
 
 You did it!! Happy Coding !! 
