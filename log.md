@@ -185,12 +185,12 @@ You did it!! Happy Coding !!
 
 **Today's Progress**: </br>
 Went through below concepts :</br>
-Taking input from user using read() method and using BufferedReader
-Exception Handling Try Catch Finally
-Multiple Catch blocks 
-Checked Exception | Finally block 
-Try with Resource
-User Defined Exception
+Taking input from user using read() method ,using BufferedReader and Scanner class</br>
+Exception Handling Try Catch Finally</br>
+Multiple Catch blocks </br>
+Checked Exception | Finally block </br>
+Try with Resource</br>
+User Defined Exception</br>
 
 
 **Thoughts:** I am just going through the different concepts and testing them practically.I have done different examples on exception handling so it took more time. But it is pretty easy and interesting.😊
