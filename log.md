@@ -242,3 +242,26 @@ List Interface</br>
 [Collection](https://github.com/shravi24/100-days-of-JAVA/tree/master/collections)
 
 You did it!! Happy Coding !!
+
+### Day 11: November 22, 2021 
+
+**Today's Progress**: </br>
+I am going start JDBC, JSP Servlet, Hibernate, MVC from today. Alongwith this I am going to practice some programmmes on Collection framwork. 
+Went through below concepts :</br>
+Whats is  Servlet </br>
+Configure Tomcat in Eclipse y</br>
+Creating Web Project in Eclipse and Create Servlet & Web.xml</br>
+GET & POST Method </br>
+RequestDispatcher | Calling a Servlet from Servlet </br>
+HttpServletRequest & HttpServletResponse</br>
+RequestDispatcher & sendRedirect</br>
+
+**Thoughts:** My plan is to go through all the advanced java concepts(JDBC,Servlet,JSP,Hibernate) withing 7-8 days. Going to work on 12 hrs a day for this. 
+
+
+
+**Link to work:** </br>
+[MultiThreading Examples](https://github.com/shravi24/100-days-of-JAVA/tree/master/multithreading)</br>
+[Collection](https://github.com/shravi24/100-days-of-JAVA/tree/master/collections)
+
+You did it!! Happy Coding !!
