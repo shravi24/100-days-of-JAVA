@@ -261,7 +261,6 @@ RequestDispatcher & sendRedirect</br>
 
 
 **Link to work:** </br>
-[MultiThreading Examples](https://github.com/shravi24/100-days-of-JAVA/tree/master/multithreading)</br>
-[Collection](https://github.com/shravi24/100-days-of-JAVA/tree/master/collections)
+Going to add link ..
 
 You did it!! Happy Coding !!
