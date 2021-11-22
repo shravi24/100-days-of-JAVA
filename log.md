@@ -202,3 +202,43 @@ User Defined Exception</br>
 [Taking Input from user](https://github.com/shravi24/100-days-of-JAVA/tree/master/inputandoutput)
 
 You did it!! Happy Coding !! 
+
+### Day 9: November 20, 2021 
+
+**Today's Progress**: </br>
+Went through below concepts :</br>
+User Input using Scanner</br>
+MultiThreading in Java Theory</br>
+Thread class</br>
+Runnable Interface</br>
+Lambda Expression</br>
+
+**Thoughts:** I am just going through the different concepts and testing them practically.
+
+**Link to work:** </br>
+[ExceptionHandling](https://github.com/shravi24/100-days-of-JAVA/tree/master/ExceptionHandling)</br>
+[Taking Input from user](https://github.com/shravi24/100-days-of-JAVA/tree/master/inputandoutput)
+
+You did it!! Happy Coding !! 
+
+### Day 10: November 21, 2021 
+
+**Today's Progress**: </br>
+Went through below concepts :</br>
+Join | isAlive method</br>
+Thread Priority</br>
+Synchronized Keyword</br>
+Collection and Generics in Java </br>
+Iterator Interface</br>
+List Interface</br>
+
+
+**Thoughts:** I am just going through the different concepts and testing them practically.
+
+
+
+**Link to work:** </br>
+[ExceptionHandling](https://github.com/shravi24/100-days-of-JAVA/tree/master/ExceptionHandling)</br>
+[Taking Input from user](https://github.com/shravi24/100-days-of-JAVA/tree/master/inputandoutput)
+
+You did it!! Happy Coding !!
