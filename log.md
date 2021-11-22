@@ -216,8 +216,8 @@ Lambda Expression</br>
 **Thoughts:** I am just going through the different concepts and testing them practically.
 
 **Link to work:** </br>
-[ExceptionHandling](https://github.com/shravi24/100-days-of-JAVA/tree/master/ExceptionHandling)</br>
-[Taking Input from user](https://github.com/shravi24/100-days-of-JAVA/tree/master/inputandoutput)
+[MultiThreading](https://github.com/shravi24/100-days-of-JAVA/tree/master/multithreading)</br>
+[User Input using Scanner](https://github.com/shravi24/100-days-of-JAVA/blob/master/inputandoutput/InputFromUserExample3.java)
 
 You did it!! Happy Coding !! 
 
@@ -238,7 +238,7 @@ List Interface</br>
 
 
 **Link to work:** </br>
-[ExceptionHandling](https://github.com/shravi24/100-days-of-JAVA/tree/master/ExceptionHandling)</br>
-[Taking Input from user](https://github.com/shravi24/100-days-of-JAVA/tree/master/inputandoutput)
+[MultiThreading Examples](https://github.com/shravi24/100-days-of-JAVA/tree/master/multithreading)</br>
+[Collection](https://github.com/shravi24/100-days-of-JAVA/tree/master/collections)
 
 You did it!! Happy Coding !!
