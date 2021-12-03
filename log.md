@@ -394,10 +394,12 @@ You did it!! Happy Coding !!
 ### Day 21: December 2, 2021 
 
 **Today's Progress**: </br> 
-Went through below concepts :</br>
+I have completed below projects :
+Student Registration Form
+E-Notes Web Project
+E-Commerce Web Project
 
-
-**Thoughts:** I'm just starting to look into these ideas and spending more time trying out different things that are linked to them.
+**Thoughts:** I'm going to perform a couple of projects to practise Servlet and JSP principles.
 
 **Link to work:** </br>
 Going to add link ..
@@ -408,9 +410,11 @@ You did it!! Happy Coding !!
 
 **Today's Progress**: </br> 
 Went through below concepts :</br>
+I have completed below project :
+To-do Web App
+Online Shpping Project
 
-
-**Thoughts:** I'm just starting to look into these ideas and spending more time trying out different things that are linked to them.
+**Thoughts:** I'm going to perform a couple of projects to practise Servlet and JSP principles.
 
 **Link to work:** </br>
 Going to add link ..
@@ -423,7 +427,7 @@ You did it!! Happy Coding !!
 Went through below concepts :</br>
 
 
-**Thoughts:** I'm just starting to look into these ideas and spending more time trying out different things that are linked to them.
+**Thoughts:** 
 
 **Link to work:** </br>
 Going to add link ..
