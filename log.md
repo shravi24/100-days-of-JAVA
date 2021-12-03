@@ -246,7 +246,7 @@ You did it!! Happy Coding !!
 ### Day 11: November 22, 2021 
 
 **Today's Progress**: </br>
-I am going start JDBC, JSP Servlet, Hibernate, MVC from today. Alongwith this I am going to practice some programmmes on Collection framwork. 
+I am going to start JDBC, JSP Servlet, Hibernate, MVC from today. Alongwith this I am going to practice some programmmes on Collection framwork. 
 Went through below concepts :</br>
 Whats is  Servlet </br>
 Configure Tomcat in Eclipse y</br>
@@ -256,8 +256,6 @@ GET & POST Method </br>
 
 **Thoughts:** My plan is to go through all the advanced java concepts(JDBC,Servlet,JSP,Hibernate) withing 7-8 days. Going to work on 12 hrs a day for this. 
 
-
-
 **Link to work:** </br>
 Going to add link ..
 
@@ -265,8 +263,7 @@ You did it!! Happy Coding !!
 
 ### Day 12: November 23, 2021 
 
-**Today's Progress**: </br>
-I am going start JDBC, JSP Servlet, Hibernate, MVC from today. Alongwith this I am going to practice some programmmes on Collection framwork. 
+**Today's Progress**: </br> 
 Went through below concepts :</br>
 RequestDispatcher | Calling a Servlet from Servlet </br>
 HttpServletRequest & HttpServletResponse</br>
@@ -274,7 +271,123 @@ RequestDispatcher & sendRedirect</br>
 
 **Thoughts:** My plan is to go through all the advanced java concepts(JDBC,Servlet,JSP,Hibernate) withing 7-8 days. Going to work on 12 hrs a day for this. 
 
+**Link to work:** </br>
+Going to add link ..
 
+You did it!! Happy Coding !!
+
+### Day 13: November 24, 2021 
+
+**Today's Progress**: </br> 
+Went through below concepts :</br>
+HttpSession | Cookie  </br>
+ServletConfig & ServletContext </br>
+
+**Thoughts:** My plan is to go through all the advanced java concepts(JDBC,Servlet,JSP,Hibernate) withing 7-8 days. Going to work on 12 hrs a day for this. 
+
+**Link to work:** </br>
+Going to add link ..
+
+You did it!! Happy Coding !!
+
+### Day 14: November 25, 2021 
+
+**Today's Progress**: </br> 
+Went through below concepts :</br>
+Servlet Annotation Configuration </br>
+Why JSP ? </br>
+How JSP Translated into Servlets ? </br>
+
+**Thoughts:** My plan is to go through all the advanced java concepts(JDBC,Servlet,JSP,Hibernate) withing 7-8 days. Going to work on 12 hrs a day for this. 
+
+
+**Link to work:** </br>
+Going to add link ..
+
+You did it!! Happy Coding !!
+
+### Day 15: November 26, 2021 
+
+**Today's Progress**: </br> 
+Went through below concepts :</br>
+Servlet Annotation Configuration </br>
+Why JSP ? </br>
+How JSP Translated into Servlets ? </br>
+
+**Thoughts:** I'm just starting to look into these ideas and spending more time trying out different things that are linked to them.
+
+
+**Link to work:** </br>
+Going to add link ..
+
+You did it!! Happy Coding !!
+
+### Day 16: November 27, 2021 
+
+**Today's Progress**: </br> 
+Went through below concepts :</br>
+JSP to Servlet Conversion | Netbeans  </br>
+JSP Tags | Scriptlet | Declaration | Directive | Expression </br>
+
+**Thoughts:** I'm just starting to look into these ideas and spending more time trying out different things that are linked to them.
+
+
+**Link to work:** </br>
+Going to add link ..
+
+You did it!! Happy Coding !!
+
+### Day 17: November 28, 2021 
+
+**Today's Progress**: </br> 
+Went through below concepts :</br>
+JSP to Servlet Conversion | Netbeans  </br>
+JSP Tags | Scriptlet | Declaration | Directive | Expression </br>
+
+**Thoughts:** I'm just starting to look into these ideas and spending more time trying out different things that are linked to them.
+
+**Link to work:** </br>
+Going to add link ..
+
+You did it!! Happy Coding !!
+
+### Day 18: November 29, 2021 
+
+**Today's Progress**: </br> 
+Went through below concepts :</br>
+JSP Directive | Page | Include | Taglib  </br>
+JSP Tags | Scriptlet | Declaration | Directive | Expression </br>
+
+**Thoughts:** I'm just starting to look into these ideas and spending more time trying out different things that are linked to them.
+
+**Link to work:** </br>
+Going to add link ..
+
+You did it!! Happy Coding !!
+
+### Day 19: November 30, 2021 
+
+**Today's Progress**: </br> 
+Went through below concepts :</br>
+Implicit Object in JSP</br>
+Exception Handling in JSP</br>
+
+**Thoughts:** I'm just starting to look into these ideas and spending more time trying out different things that are linked to them.
+
+**Link to work:** </br>
+Going to add link ..
+
+You did it!! Happy Coding !!
+
+
+### Day 20: December 1, 2021 
+
+**Today's Progress**: </br> 
+Went through below concepts :</br>
+JDBC in JSP</br>
+MVC Using Servlet & JSP</br>
+
+**Thoughts:** I'm just starting to look into these ideas and spending more time trying out different things that are linked to them.
 
 **Link to work:** </br>
 Going to add link ..
