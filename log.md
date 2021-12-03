@@ -20,10 +20,7 @@ Class and Object</br>
 Constructor  </br>
 
 
-
-
 **Thoughts:**  I feel like this challenge is going to help me a lot. On first day, I just revised basic concepts and did some basic programms.
-
 
 
 **Link to work:** </br>
@@ -386,6 +383,45 @@ You did it!! Happy Coding !!
 Went through below concepts :</br>
 JDBC in JSP</br>
 MVC Using Servlet & JSP</br>
+
+**Thoughts:** I'm just starting to look into these ideas and spending more time trying out different things that are linked to them.
+
+**Link to work:** </br>
+Going to add link ..
+
+You did it!! Happy Coding !!
+
+### Day 21: December 2, 2021 
+
+**Today's Progress**: </br> 
+Went through below concepts :</br>
+
+
+**Thoughts:** I'm just starting to look into these ideas and spending more time trying out different things that are linked to them.
+
+**Link to work:** </br>
+Going to add link ..
+
+You did it!! Happy Coding !!
+
+### Day 22: December 3, 2021 
+
+**Today's Progress**: </br> 
+Went through below concepts :</br>
+
+
+**Thoughts:** I'm just starting to look into these ideas and spending more time trying out different things that are linked to them.
+
+**Link to work:** </br>
+Going to add link ..
+
+You did it!! Happy Coding !!
+
+### Day 23: December 4, 2021 
+
+**Today's Progress**: </br> 
+Went through below concepts :</br>
+
 
 **Thoughts:** I'm just starting to look into these ideas and spending more time trying out different things that are linked to them.
 
