@@ -387,7 +387,7 @@ MVC Using Servlet & JSP</br>
 **Thoughts:** I'm just starting to look into these ideas and spending more time trying out different things that are linked to them.
 
 **Link to work:** </br>
-Going to add link ..
+I'll shortly include a link.
 
 You did it!! Happy Coding !!
 
@@ -402,7 +402,7 @@ E-Commerce Web Project
 **Thoughts:** I'm going to perform a couple of projects to practise Servlet and JSP principles. The next two weeks will most likely be spent working on projects.
 
 **Link to work:** </br>
-Going to add link ..
+Once this project week is completed, I'll include a link.
 
 You did it!! Happy Coding !!
 
@@ -417,7 +417,7 @@ To-do Web App
 **Thoughts:** I'm going to perform a couple of projects to practise Servlet and JSP principles.
 
 **Link to work:** </br>
-Going to add link ..
+Once this project week is completed, I'll include a link.
 
 You did it!! Happy Coding !!
 
@@ -430,7 +430,7 @@ Online Shpping Project
 **Thoughts:** Projects, in my opinion, are an excellent approach to learn and explore concepts.
 
 **Link to work:** </br>
-Going to add link ..
+Once this project week is completed, I'll include a link.
 
 You did it!! Happy Coding !!
 
@@ -443,7 +443,7 @@ Writing classes and functions for the same project Online Shpping Project :</br>
 **Thoughts:** 
 
 **Link to work:** </br>
-Going to add link ..
+Once this project week is completed, I'll include a link.
 
 You did it!! Happy Coding !!
 
@@ -456,7 +456,7 @@ Did finsihing work on front end of my online shopping project
 **Thoughts:** 
 
 **Link to work:** </br>
-Going to add link ..
+Once this project week is completed, I'll include a link.
 
 You did it!! Happy Coding !!
 
@@ -470,7 +470,7 @@ Created flowchart and ER & Class Diagram.
 **Thoughts:** 
 
 **Link to work:** </br>
-Going to add link ..
+Once this project week is completed, I'll include a link.
 
 You did it!! Happy Coding !!
 
@@ -483,7 +483,7 @@ Working on creating classes and writing functions for my food ordering project :
 **Thoughts:**  Projects are a lot of fun and interesting to work on.
 
 **Link to work:** </br>
-Going to add link ..
+Once this project week is completed, I'll include a link.
 
 You did it!! Happy Coding !!
 
@@ -493,9 +493,9 @@ You did it!! Happy Coding !!
 Went through below concepts :</br>
 Working on creating classes and writing functions for my food ordering project 
 
-**Thoughts:**I learned a lot of concepts and acquired confidence through tasks.
+**Thoughts:** I learned a lot of concepts and acquired confidence through tasks.
 
 **Link to work:** </br>
-Going to add link ..
+Once this project week is completed, I'll include a link.
 
 You did it!! Happy Coding !!
