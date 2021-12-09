@@ -399,7 +399,7 @@ Student Registration Form
 E-Notes Web Project
 E-Commerce Web Project
 
-**Thoughts:** I'm going to perform a couple of projects to practise Servlet and JSP principles.
+**Thoughts:** I'm going to perform a couple of projects to practise Servlet and JSP principles. The next two weeks will most likely be spent working on projects.
 
 **Link to work:** </br>
 Going to add link ..
@@ -412,7 +412,7 @@ You did it!! Happy Coding !!
 Went through below concepts :</br>
 I have completed below project :
 To-do Web App
-Online Shpping Project
+
 
 **Thoughts:** I'm going to perform a couple of projects to practise Servlet and JSP principles.
 
@@ -424,10 +424,10 @@ You did it!! Happy Coding !!
 ### Day 23: December 4, 2021 
 
 **Today's Progress**: </br> 
-Went through below concepts :</br>
+Working on another project :</br>
+Online Shpping Project
 
-
-**Thoughts:** 
+**Thoughts:** Projects, in my opinion, are an excellent approach to learn and explore concepts.
 
 **Link to work:** </br>
 Going to add link ..
@@ -437,7 +437,7 @@ You did it!! Happy Coding !!
 ### Day 24: December 5, 2021 
 
 **Today's Progress**: </br> 
-Went through below concepts :</br>
+Writing classes and functions for the same project Online Shpping Project :</br>
 
 
 **Thoughts:** 
@@ -451,7 +451,7 @@ You did it!! Happy Coding !!
 
 **Today's Progress**: </br> 
 Went through below concepts :</br>
-
+Did finsihing work on front end of my online shopping project
 
 **Thoughts:** 
 
@@ -463,8 +463,9 @@ You did it!! Happy Coding !!
 ### Day 25: December 7, 2021 
 
 **Today's Progress**: </br> 
-Went through below concepts :</br>
-
+Started working on my another project  :</br>
+Food Ordering system 
+Created flowchart and ER & Class Diagram.
 
 **Thoughts:** 
 
@@ -476,10 +477,10 @@ You did it!! Happy Coding !!
 ### Day 26: December 8, 2021 
 
 **Today's Progress**: </br> 
-Went through below concepts :</br>
+Working on creating classes and writing functions for my food ordering project :</br>
 
 
-**Thoughts:** 
+**Thoughts:**  Projects are a lot of fun and interesting to work on.
 
 **Link to work:** </br>
 Going to add link ..
@@ -490,9 +491,9 @@ You did it!! Happy Coding !!
 
 **Today's Progress**: </br> 
 Went through below concepts :</br>
+Working on creating classes and writing functions for my food ordering project 
 
-
-**Thoughts:** 
+**Thoughts:**I learned a lot of concepts and acquired confidence through tasks.
 
 **Link to work:** </br>
 Going to add link ..
