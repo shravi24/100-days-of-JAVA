@@ -409,9 +409,8 @@ You did it!! Happy Coding !!
 ### Day 22: December 3, 2021 
 
 **Today's Progress**: </br> 
-Went through below concepts :</br>
-I have completed below project :
-To-do Web App
+I have completed below project : </br> 
+To-do Web App </br> 
 
 
 **Thoughts:** I'm going to perform a couple of projects to practise Servlet and JSP principles.
@@ -425,7 +424,7 @@ You did it!! Happy Coding !!
 
 **Today's Progress**: </br> 
 Working on another project :</br>
-Online Shpping Project
+Online Shpping Project </br> 
 
 **Thoughts:** Projects, in my opinion, are an excellent approach to learn and explore concepts.
 
@@ -450,8 +449,7 @@ You did it!! Happy Coding !!
 ### Day 24: December 6, 2021 
 
 **Today's Progress**: </br> 
-Went through below concepts :</br>
-Did finsihing work on front end of my online shopping project
+Did finsihing work on front end of my online shopping project </br> 
 
 **Thoughts:** 
 
@@ -490,7 +488,6 @@ You did it!! Happy Coding !!
 ### Day 26: December 9, 2021 
 
 **Today's Progress**: </br> 
-Went through below concepts :</br>
 Working on creating classes and writing functions for my food ordering project 
 
 **Thoughts:** I learned a lot of concepts and acquired confidence through tasks.
