@@ -397,3 +397,17 @@ Due to some emergencies, I was unable to complete work on a regular basis. But n
 I'm glad to be back on this trip!🤩
 
 *********************************************************************************************************************************************************************
+
+### Day 21: January 2, 2022 
+
+**Today's Progress**: </br> 
+Went through below concepts :</br>
+
+
+**Thoughts:** At the end of today, I'll log my progress here.
+
+**Link to work:** </br>
+
+
+You did it!! Happy Coding !!
+
